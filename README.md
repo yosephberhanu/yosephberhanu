@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and research with in the domain of cognitive assistant systems 
 <!-- - 🌱 I’m currently learning -->
 - 💞️ I’m looking to collaborate on anything exinting in the domain of cognitive support systems, affect aware systems and so on.
-- 📫 How to reach yosephcs at  googles email service
+- 📫 How to reach yosephcs at  google's email service
 
 <!---
 yosephberhanu/yosephberhanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
