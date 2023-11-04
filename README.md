@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/3712714?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
@@ -68,7 +64,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yosephberhanu/yosephberhanu/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/yosephberhanu/yosephberhanu/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
