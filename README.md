@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yoseph and I'm currently a grad student at Virginia Tech. I’m interested in programming and research with in the domain of cognitive assistant systems</h2>
+<h2 align="left">Hi 👋! My name is Yoseph and I'm currently a grad student at Virginia Tech. I’m interested in programming and research with in the domain of developer tools</h2>
 
 ###
 
